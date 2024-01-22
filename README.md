@@ -13,12 +13,20 @@
 
 <!--Skills Section-->
 ## :link: Skills 🌙
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,next,materialui.github)](https://skillicons.dev)
 
 <!--Skills Section-->
 ## :link: Learning & Updating 🚀
+
 [![In Progress](https://skillicons.dev/icons?i=next,ts,docker)](https://skillicons.dev)
 
 <!--Accounts-->
 ## :link: Lets chat? 🍻
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+<a href="https://www.linkedin.com/in/emad-zeraatzadeh/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://t.me/EmadNova">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
