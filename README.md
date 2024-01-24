@@ -19,7 +19,7 @@
 <!--Skills Section-->
 ## :link: Learning & Updating... 🚀
 
-[![In Progress](https://skillicons.dev/icons?i=next,ts,docker)](https://skillicons.dev)
+[![In Progress](https://skillicons.dev/icons?i=next,ts,docker,jest)](https://skillicons.dev)
 
 <!--Accounts-->
 ## :link: Lets chat? 🍻
