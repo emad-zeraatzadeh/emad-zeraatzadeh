@@ -14,10 +14,10 @@
 <!--Skills Section-->
 ## :link: Skills 🌙
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,next,materialui.github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,materialui,react,next,github)](https://skillicons.dev)
 
 <!--Skills Section-->
-## :link: Learning & Updating 🚀
+## :link: Learning & Updating... 🚀
 
 [![In Progress](https://skillicons.dev/icons?i=next,ts,docker)](https://skillicons.dev)
 
