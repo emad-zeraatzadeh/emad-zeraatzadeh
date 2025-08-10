@@ -15,13 +15,13 @@ I look forward to connecting with you!
 
 ## :link: Skills 🌙
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,materialui,react,next,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,ts,react,next,github)](https://skillicons.dev)
 
 <!--Skills Section-->
 
 ## :link: Learning & Updating... 🚀
 
-[![In Progress](https://skillicons.dev/icons?i=next,redux,ts,docker,jest)](https://skillicons.dev)
+[![In Progress](https://skillicons.dev/icons?i=redux,ts,jest)](https://skillicons.dev)
 
 <!--Accounts-->
 
