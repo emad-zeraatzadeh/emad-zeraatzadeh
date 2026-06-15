@@ -5,10 +5,7 @@
 ## :link: About 👨‍💻
 
 <p style="text-align: justify;">
-  Hi there,
-I'm a front-end web developer passionate about creating new stuff.
-I'm always looking for new challenges and opportunities to learn and grow, and I'm excited to connect with like-minded professionals who share my passion for this field. 
-I look forward to connecting with you!
+Experienced React.js / Next.js Developer with over 3 years of expertise in building high-quality, fast, and efficient web applications. Skilled in creating responsive, user-friendly interfaces using modern frontend technologies and industry best practices. A strong collaborator with a proven ability to work effectively in cross-functional teams, delivering solutions that align with business and client requirements.
 </p>
 
 <!--Skills Section-->
