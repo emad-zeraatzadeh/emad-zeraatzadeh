@@ -18,7 +18,7 @@ Experienced React.js / Next.js Developer with over 3 years of expertise in build
 
 ## :link: Learning & Updating... 🚀
 
-[![In Progress](https://skillicons.dev/icons?i=playwright,vitest)](https://skillicons.dev)
+[![In Progress](https://skillicons.dev/icons?i=vitest,playwright)](https://skillicons.dev)
 
 <!--Accounts-->
 
