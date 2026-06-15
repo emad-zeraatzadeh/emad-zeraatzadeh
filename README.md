@@ -12,13 +12,13 @@ Experienced React.js / Next.js Developer with over 3 years of expertise in build
 
 ## :link: Skills 🌙
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,ts,react,next,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,bootstrap,js,ts,react,nextjs,redux,github)](https://skillicons.dev)
 
 <!--Skills Section-->
 
 ## :link: Learning & Updating... 🚀
 
-[![In Progress](https://skillicons.dev/icons?i=redux,ts,jest)](https://skillicons.dev)
+[![In Progress](https://skillicons.dev/icons?i=playwright,vitest)](https://skillicons.dev)
 
 <!--Accounts-->
 
