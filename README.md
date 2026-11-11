@@ -18,7 +18,7 @@ Experienced React.js / Next.js Developer with over 3 years of expertise in build
 
 ## :link: Currently Learning 📚
 
-[![Learning](https://skillicons.dev/icons?i=postgres,sql,nodejs,nestjs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=postgres,nodejs,nestjs)](https://skillicons.dev)
 
 <!--Portfolio Section-->
 
